@@ -1,0 +1,9 @@
+# Python and notebooks # 
+###########################
+*npy
+__pycache__/
+.ipynb_checkpoints/
+
+# specific files # 
+##########################
+*.png
