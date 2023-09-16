@@ -23,3 +23,19 @@ The folders correspond to the following experiments in the paper:
 https://drive.google.com/drive/folders/1jx2wnGJOyY1m7pKpdotH1Yy86CPirWfr?usp=sharing 
 
  
+ # Citation 
+ <div class="highlight">
+                  <pre class="chroma">
+                  <code>
+@article{alali2022time,
+  title={Time-lapse data matching using a recurrent neural network approach},
+  author={Alali, Abdullah and Kazei, Vladimir and Sun, Bingbing and Alkhalifah, Tariq},
+  journal={Geophysics},
+  volume={87},
+  number={5},
+  pages={1--83},
+  year={2022},
+  publisher={Society of Exploration Geophysicists}
+}
+          </code>
+
